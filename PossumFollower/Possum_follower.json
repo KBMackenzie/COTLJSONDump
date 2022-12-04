@@ -1,0 +1,139 @@
+{
+  "$schema": "https://raw.githubusercontent.com/KBMackenzie/COTL_JSONLoader/master/schema/follower-skin.json",
+  "name": "Possum Follower",
+  "imagePath": "Possum_Spritesheet.png",
+  "overrides": [
+    {
+      "name": "HEAD_SKIN_TOP",
+      "rect": "164, 0, 164, 128"
+    },
+    {
+      "name": "HEAD_SKIN_BTM",
+      "rect": "0, 0, 164, 128"
+    },
+    {
+      "name": "HEAD_SKIN_TOP_BACK",
+      "rect": "164, 128, 164, 128"
+    },
+    {
+      "name": "HEAD_SKIN_BTM_BACK",
+      "rect": "0, 128, 164, 128"
+    }
+  ],
+  "colors": [
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#ffedde"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#ffccb3"
+      }
+    ],
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#edc7af"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#785540"
+      }
+    ],
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#5e4a40"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#30221b"
+      }
+    ]
+  ]
+}
